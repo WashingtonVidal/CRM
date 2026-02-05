@@ -1,2 +1,5 @@
-# CRM
-CRM para pequenos estabelecimentos cadastrarem clientes de seu negocio, tendo como objetivo principal de desenvolver minhas habilidades de desenvolvimento e futuramente vender 
+# CRM - Cadastro de Clientes
+
+Este projeto consiste em um sistema de CRM voltado para pequenos estabelecimentos, permitindo que eles cadastrem e gerenciem seus próprios clientes.
+
+O objetivo principal deste projeto é desenvolver e consolidar minhas habilidades em desenvolvimento backend, além de criar uma solução que possa futuramente ser comercializada.
