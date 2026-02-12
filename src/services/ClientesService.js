@@ -5,6 +5,9 @@ class ClientesService {
         clientes.push(cliente);
         return cliente;
     }
+    findAll(){
+        return clientes;
+    }
 }
 
 module.exports = new ClientesService();

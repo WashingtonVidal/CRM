@@ -8,4 +8,6 @@ routes.get("/", HomeController.index);
 
 routes.post("/clientes", ClientesController.create);
 
+routes.get("/clientes", ClientesController.list);   
+
 module.exports = routes;
